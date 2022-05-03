@@ -1,5 +1,5 @@
 layout: page
 title: "Koby Samuel - HOME"
-permalink: /
+permalink: /index.html
 
 Test!
